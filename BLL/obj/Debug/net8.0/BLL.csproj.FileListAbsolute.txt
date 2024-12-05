@@ -1,0 +1,12 @@
+/Users/furkanalbas/RiderProjects/EmployeeManagement/BLL/bin/Debug/net8.0/BLL.deps.json
+/Users/furkanalbas/RiderProjects/EmployeeManagement/BLL/bin/Debug/net8.0/BLL.dll
+/Users/furkanalbas/RiderProjects/EmployeeManagement/BLL/bin/Debug/net8.0/BLL.pdb
+/Users/furkanalbas/RiderProjects/EmployeeManagement/BLL/obj/Debug/net8.0/BLL.csproj.AssemblyReference.cache
+/Users/furkanalbas/RiderProjects/EmployeeManagement/BLL/obj/Debug/net8.0/BLL.GeneratedMSBuildEditorConfig.editorconfig
+/Users/furkanalbas/RiderProjects/EmployeeManagement/BLL/obj/Debug/net8.0/BLL.AssemblyInfoInputs.cache
+/Users/furkanalbas/RiderProjects/EmployeeManagement/BLL/obj/Debug/net8.0/BLL.AssemblyInfo.cs
+/Users/furkanalbas/RiderProjects/EmployeeManagement/BLL/obj/Debug/net8.0/BLL.csproj.CoreCompileInputs.cache
+/Users/furkanalbas/RiderProjects/EmployeeManagement/BLL/obj/Debug/net8.0/BLL.dll
+/Users/furkanalbas/RiderProjects/EmployeeManagement/BLL/obj/Debug/net8.0/refint/BLL.dll
+/Users/furkanalbas/RiderProjects/EmployeeManagement/BLL/obj/Debug/net8.0/BLL.pdb
+/Users/furkanalbas/RiderProjects/EmployeeManagement/BLL/obj/Debug/net8.0/ref/BLL.dll
