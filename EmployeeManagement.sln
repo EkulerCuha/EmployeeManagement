@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVC", "MVC\MVC.csproj", "{E574EB13-861E-4A17-81A0-C69FF58CFC2D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BLL", "BLL\BLL.csproj", "{31734D90-66C3-48B8-A125-69407B8FC976}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E574EB13-861E-4A17-81A0-C69FF58CFC2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E574EB13-861E-4A17-81A0-C69FF58CFC2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E574EB13-861E-4A17-81A0-C69FF58CFC2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E574EB13-861E-4A17-81A0-C69FF58CFC2D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31734D90-66C3-48B8-A125-69407B8FC976}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31734D90-66C3-48B8-A125-69407B8FC976}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31734D90-66C3-48B8-A125-69407B8FC976}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31734D90-66C3-48B8-A125-69407B8FC976}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
