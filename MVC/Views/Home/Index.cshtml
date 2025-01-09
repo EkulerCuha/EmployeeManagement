@@ -1,0 +1,11 @@
+﻿@using System.Configuration
+@{
+    ViewData["Title"] = "Home Page";
+    string title = "Welcome to " + AppSettings.Title + " " + (User.Identity.IsAuthenticated ? User.Identity.Name : "Guest");
+    var desc = AppSettings.Description;
+}
+
+<div class="text-center">
+    <h1 class="display-4">@title</h1>
+    <p>@desc</p>
+</div>
