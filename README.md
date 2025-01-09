@@ -1,7 +1,8 @@
 # EmployeeManagement
-ISE413 .NET PHASE 1
+ISE413 .NET FINAL PHASE
 
 Hocam merhaba,
 
-Phase 1 için ER diagramı da dosylarıma ekledim
-Teşekkürler.
+FINAL PHASE için dosyaları final phase branchine ekledim tüm gerekli dosyalara oradan ulaşabilirsiniz.
+
+Teşekkürler
